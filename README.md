@@ -180,12 +180,6 @@ A custom **operating system built from scratch** in Assembly. Bootloader → ker
 
 <div align="center">
 
-```
-build > consume
-ship > perfect
-consistency > motivation
-boring tech > hype cycles
-```
 
 </div>
 
