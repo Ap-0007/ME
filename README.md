@@ -136,7 +136,7 @@ A custom **operating system built from scratch** in Assembly. Bootloader → ker
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ap-0007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br>
