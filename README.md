@@ -179,7 +179,10 @@ A custom **operating system built from scratch** in Assembly. Bootloader → ker
 ## `💡 philosophy`
 
 <div align="center">
-
+'''
+none ;-)
+  
+'''
 
 </div>
 
