@@ -94,25 +94,13 @@ class VantaNox:
 
 <div align="center">
 
-<!-- Row 1: full-width contribution timeline -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ap-0007&theme=github_dark" width="98%" />
-
-<br/>
-
-<!-- Row 2: streak + productive time -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ap-0007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=Ap-0007&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ap-0007&theme=github_dark&utcOffset=5.5" width="49%" />
 
 <br/>
 
-<!-- Row 3: stats card + repos per language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ap-0007&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ap-0007&theme=github_dark" width="49%" />
-
-<br/>
-
-<!-- Row 4: activity graph full-width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap-0007&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=c9d1d9" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap-0007&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=c9d1d9" width="49%" />
 
 </div>
 
